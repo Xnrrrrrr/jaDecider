@@ -47,7 +47,7 @@ public class Decider {
         System.out.printf("%s=============================================%s\n", ANSI_RED, ANSI_RESET);
         System.out.printf("|               DECISION MAKER              |\n");
         System.out.printf("%s=============================================%s\n", ANSI_RED, ANSI_RESET);
-        System.out.printf("%s >> Written by %sXNRRRRR%s\n", ANSI_RED, ANSI_BOLD, ANSI_RESET);
+        System.out.printf("%s >> Written by %sXnrrrrrr%s\n", ANSI_RED, ANSI_BOLD, ANSI_RESET);
     }
 
     // Display steps in blue
