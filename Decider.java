@@ -95,7 +95,7 @@ public class Decider {
         System.out.printf("\n%s=============================================%s\n", ANSI_RED, ANSI_RESET);
         System.out.printf("|               DECISION MAKER               |\n");
         System.out.printf("%s=============================================%s\n", ANSI_RED, ANSI_RESET);
-        System.out.println("\n" + ANSI_BLUE + "   Randomly selected choice: " + selectedChoice + ANSI_RESET);
+        System.out.println("\n" + ANSI_BLUE + "   Decision: " + selectedChoice + ANSI_RESET);
     }
 
     // Display farewell message with ASCII art and color
